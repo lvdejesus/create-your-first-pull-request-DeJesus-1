@@ -1,0 +1,3 @@
+- I will learn how to create a website using the MERN stack
+- The exercises will be fun to do
+- I will get a 1.00 at the end of the semester
